@@ -1,5 +1,5 @@
 category: Games
-requires: cygwin libintl8 libncurses8
+requires: libintl8 libncurses8
 sdesc: "Clone of C64 Tornado game"
 ldesc: "Tornado is the clone of a C64 game. The goal of the game is to 
 destroy the opponent's house with certain weather phenomena: rain, 
